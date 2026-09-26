@@ -1,7 +1,7 @@
 ## Hi there ^^
 ### About me
 It\`s my GitHub profile, currently i\`m working on C/C++ and C# projects<br>
-It\`s my favorite languages<br>
+Just it\`s my favorite languages<br>
 
 I\`m like cats and low-level programming<br>
 Currently i\`m studying, my favorite project its a NjBot, but at present, this may be changed<br>
