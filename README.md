@@ -4,9 +4,6 @@ It\`s my GitHub profile, currently i\`m working on C/C++ and C# projects<br>
 Just it\`s my favorite languages<br>
 
 I\`m like cats and low-level programming<br>
-My favorite project its a NjBot, but at present, this may be changed<br>
-
-And my favorite OS - Linux, i\`m use Arch distro, in future maybe i try void linux<br>
 
 ### About my skills
 Languages who i know:
